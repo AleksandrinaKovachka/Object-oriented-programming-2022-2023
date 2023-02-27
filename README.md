@@ -2,6 +2,6 @@
 
 Материали от курса по ООП на специалност Информатика - 4та група, семинар
 
-Седмица 1 - Указатели, Псевдоними, Динамична памет(Преговор)
+[Седмица 1](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/tree/main/Week01) - Указатели, Псевдоними, Динамична памет(Преговор)
 
-Седмица 2 - Изброен тип (enum, enum class). Структури: разположение в паметта
+[Седмица 2](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/tree/main/Week02) - Изброен тип (enum, enum class). Структури: разположение в паметта
