@@ -1,5 +1,5 @@
 # Седмица 1 - Указатели, Псевдоними, Динамична памет(Преговор)
 
-Теория
+[Теория](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/tree/main/Week01/Theory)
 
-Задачи
+[Задачи](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/tree/main/Week01/Tasks)
