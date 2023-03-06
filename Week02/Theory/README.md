@@ -68,3 +68,17 @@ enum EnumName{
 ```
 EnumName var = value1;
 ```
+
+Enum class:
+=
+**Enum** не е type-safe. Това означава, че не е строго типизиран (Когато създаваме този тип данни не може да си гарантираме и да разчитаме, че има своята уникалност)
+
+**Enum class:** въведено в C++11. Това гарантира, че имаме строго типизиран тип. Enum class не позволява експлицитно конвертиране към int и сравнение с други изброими типове(което е позволено ако използваме само Enum)
+
+```
+// Declaration
+enum class EnumName{ Value1, Value2, ... ValueN};
+
+// Initialisation
+EnumName ObjectName = EnumName::Value;
+```
