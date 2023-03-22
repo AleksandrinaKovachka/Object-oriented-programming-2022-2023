@@ -1,5 +1,7 @@
 # Седмица 2 - Изброен тип (enum, enum class). Структури: разположение в паметта
 
+[Решения...](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/blob/main/Week02/Solutions_week2.cpp)
+
 Задача 1:
 =
 Да се напише програма, която има структура Касов бон съдържащ следните полета:
