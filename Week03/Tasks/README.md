@@ -7,17 +7,25 @@
 - отпечатване на всеки ред от текстов файл
 - която връща стринг от всяка първа буква на всеки ред от стойностите във файла
 
+[Решение...](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/blob/main/Week03/task_1.cpp)
+
 Задача 2:
 =
 Напишете програма, която прочита числа от текстов файл и записва четните и нечетните числа в отделни файлове.
+
+[Решение...](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/blob/main/Week03/task_2.cpp)
 
 Задача 3:
 =
 Напишете програма, която прочита два текстови файла и създава трети със съдържанието на първия и втория.
 
+[Решение...](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/blob/main/Week03/task_3.cpp)
+
 Задача 4:
 =
 Напишете програма, която променя текстов файл като преобразува всички главни букви в малки и обратното.
+
+[Решение...](https://github.com/AleksandrinaKovachka/Object-oriented-programming-2022-2023/blob/main/Week03/task_4.cpp)
 
 Задача 5(Допълнителна задача):
 =
@@ -28,4 +36,3 @@
 Стойности в съществуващ файл:  15+4
 Стойности в нов файл с резултат: 19
 ```
-
